@@ -1,15 +1,9 @@
 .title-hadi{
-    font-size: 30px;
+    font-size: 90px;
 }
 
 .mydob{
-    font-size: 100px;
-    color: violet;
-
-    &:hover{
-        color: brown;
-        
-    }
+    font-size: 40px;
 }
 
 .myphoto{
